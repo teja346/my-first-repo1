@@ -1,4 +1,5 @@
 int(input)
 a=20
 b=30
-print(a+b)
+c=60
+print(a+b+c)
